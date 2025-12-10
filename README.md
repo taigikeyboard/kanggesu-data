@@ -11,3 +11,8 @@ make scrape
 ## 致謝
 
 Inspired by [kemdict/kemdict-data-pts-taigitv](https://github.com/kemdict/kemdict-data-pts-taigitv)
+
+## License
+
+- Code License: MIT License — free to use, modify, and distribute.
+- Data License: CC BY-NC — non-commercial use only, with attribution.
